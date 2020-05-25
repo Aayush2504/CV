@@ -1,0 +1,30 @@
+.A{
+  display:block;
+  position:absolute;
+  margin: 0 35% 0 35%;
+  background-image: url(16320.jpg);
+  background-position: center;
+ background-repeat: no-repeat;
+ background-size:cover;
+ border-radius: 50%;
+ height: 30%;
+ width: 30%;
+ text-align: center;
+}
+
+
+body{
+  background-color: #d4f3ef;
+  height: 100%;
+  margin: 0;
+  width: 100%;
+}
+
+#font1 {
+  position: relative;
+  top: 20%;
+  font-style: italic;
+  font-family: fantasy;
+  font-weight:bold;
+  color: #679b9b;
+}
